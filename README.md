@@ -1,4 +1,4 @@
-# Anlisis de Emisiones bde CO Tendencias y Comparaciones Globales
+# Anlisis de Emisiones de CO Tendencias y Comparaciones Globales
 Este código analiza las emisiones de CO₂ per cápita en diferentes países a lo largo del tiempo, utilizando visualizaciones interactivas y cálculos estadísticos para identificar tendencias y correlaciones.
 Este análisis permite:
 ✅ Visualizar tendencias en emisiones de CO₂ en distintos países.
